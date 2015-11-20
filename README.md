@@ -20,7 +20,7 @@ Anything is better than using **15 Google Docs pages.**
 
 ## Getting Started
 
-* Firstly here are some [Good Resources for Learning Git and GitHub.](https://help.github.com/articles/good-resources-for-learning-git-and-github/) curated by the company themselves.
+* Firstly here are some [Good Resources for Learning Git and GitHub.](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 * I would probably even suggest that you use the Desktop Client at first simply for a smaller barrier to entry, and you can get [right in to the fun stuff.](https://desktop.github.com)
-* Of course you can always [just jump in with Git](https://help.github.com/articles/set-up-git/)
+* Of course you can always [just jump in with Git.](https://help.github.com/articles/set-up-git/)
 
