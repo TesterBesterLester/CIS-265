@@ -18,8 +18,6 @@ For some of you, this may be the first time using these two epically powerful to
 Yes, it does. It uses some paradigms that you may not be familiar with. Please remember this however, 
 Anything is better than using **15 Google Docs pages.**
 
-Luckily there are many awesome resources to learning how to use them. If you just sign up for an account, Github provides a good set of tutorials, and a quick google search will bring up many other resources. 
-
 ## Getting Started
 
 * Firstly here are some [Good Resources for Learning Git and GitHub.](https://help.github.com/articles/good-resources-for-learning-git-and-github/) curated by the company themselves.
