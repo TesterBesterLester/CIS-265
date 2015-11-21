@@ -7,7 +7,7 @@ If at any time you can think of a better solution to any of the problems(or an i
 
 ## Credit
 
-Some of the projects will be submitted by other students in the class, and proper attribution will be given at the top and bottom of each source file indicating the original creator. 
+Most if not all projects will have multiple source files with alternative solutions to the problem. Proper attribution will be given at the top and bottom of each source file indicating the original creator. 
 ***
 # Working with Git and GitHub
 
